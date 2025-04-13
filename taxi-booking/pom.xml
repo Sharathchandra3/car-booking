@@ -10,9 +10,9 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>taxi-booking-1.0.1</artifactId>
+  <artifactId>cabbooking</artifactId>
   <packaging>war</packaging>
-  <name>taxi-booking-1.0.1</name>
+  <name>cabbooking</name>
   <description>Webapp.</description>
 
   <build>
